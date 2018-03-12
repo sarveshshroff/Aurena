@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="USEmbassyLondon" size="500.000000 374.608154" />
+    <ImageTarget name="japantragedy" size="500.000000 374.823944" />
+    <ImageTarget name="modi_ap" size="500.000000 374.877502" />
+    <ImageTarget name="elon" size="500.000000 375.000000" />
+    <ImageTarget name="billy" size="500.000000 493.362823" />
+    <ImageTarget name="cristiano-gol-real-sociedad_15_970x597" size="500.000000 307.731964" />
+    <ImageTarget name="barack-obama" size="500.000000 500.000000" />
+    <ImageTarget name="modi-75915" size="500.000000 277.997375" />
+  </Tracking>
+</QCARConfig>
